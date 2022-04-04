@@ -1,7 +1,7 @@
 {
   "name": "ubc-app",
   "version": "1.0.0",
-  "description": "Union Baptist App",
+  "description": "Union Baptist Church App",
   "main": "UBCapp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
