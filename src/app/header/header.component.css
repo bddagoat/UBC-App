@@ -1,0 +1,21 @@
+.body {
+  background-color: purple;
+  color: yellow; 
+  background-size: 100%;
+}
+
+.image {
+  position: absolute;
+
+}
+
+.title {
+  position: absolute;
+
+}
+
+.header {
+  position: absolute;
+
+}
+

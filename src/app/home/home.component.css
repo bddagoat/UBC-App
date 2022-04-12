@@ -1,0 +1,13 @@
+.root {
+  display: flex;
+  background-size: 100%;
+}
+
+.image {
+  position: absolute;
+  margin-top: 15rem;
+  margin-left: 10rem;
+  width: 10rem;
+  height: 15rem;
+}
+
