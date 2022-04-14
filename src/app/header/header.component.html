@@ -4,9 +4,17 @@
 
   <h1 class="title">Welcome to Union Baptist Church</h1>
 
-  <h3 class="header">Where Everyone Is Someone</h3>
+  <h2 class="header">Where Everyone Is Someone</h2>
 
-  
+  <div class="topNav">
+
+    <a [routerLink]="['/']" [routerLinkActiveOptions]="{exact: true}" [routerLinkActive]="['active']">Home</a>
+    <a routerLink="services" routerLinkActive="active">Services</a>
+    <a routerLink="Calendar" routerLinkActive="active">Calendar</a>
+    <a routerLink="Contact" routerLinkActive="active">Contact</a>
+     
+
+  </div>
 
 
 </div>

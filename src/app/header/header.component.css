@@ -1,21 +1,34 @@
-.body {
+.root {
   background-color: purple;
-  color: yellow; 
+  color: purple; 
   background-size: 100%;
 }
 
 .image {
   position: absolute;
-
+  border: 0.6rem solid yellow;
+  margin-top: -0.5rem;
+  margin-left: -53.5rem;
+  height: 12rem;
+  width: 118.5rem;
 }
 
 .title {
   position: absolute;
+  margin-top: 5rem;
+  margin-left: -15rem;
 
 }
 
 .header {
   position: absolute;
+  margin-top: 8rem;
+  margin-left: -9.3rem;
 
+}
+
+.topNav {
+  position: absolute;
+  margin-top: 15rem;
 }
 

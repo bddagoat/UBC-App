@@ -1,5 +1,7 @@
 .root {
+  color: yellow;
   display: flex;
+  background-color: purple;
   background-size: 100%;
 }
 
