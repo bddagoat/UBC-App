@@ -29,8 +29,12 @@
 
 .topNav {
   position: absolute;
+  border: 0.3rem solid yellow;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
+  width: 20rem;
+  height: 2.5rem;
+  padding-top: 1rem;
   margin-top: 15rem;
   margin-left: -5.8rem;
 }
